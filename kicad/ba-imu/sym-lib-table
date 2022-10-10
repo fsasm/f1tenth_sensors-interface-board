@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "nxadapter")(type "Legacy")(uri "${KIPRJMOD}/nxadapter.lib")(options "")(descr ""))
+  (lib (name "ba-imu-rescue")(type "Legacy")(uri "${KIPRJMOD}/ba-imu-rescue.lib")(options "")(descr ""))
+)

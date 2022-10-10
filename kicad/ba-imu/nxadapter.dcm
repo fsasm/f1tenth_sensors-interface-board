@@ -1,0 +1,44 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3V3BAT
+D Power symbol creates a global label with name "+3V3BAT"
+K power-flag
+$ENDCMP
+#
+$CMP ADC101C021
+D Single Delta-Sigma 10bit Analog to Digital Converter, I2C Interface, SOT-6
+K Sigma-Delta ADC Converter 10bit I2C 1ch
+F https://www.ti.com/lit/ds/symlink/adc101c021.pdf
+$ENDCMP
+#
+$CMP BSS138W-7-F
+D MOSFET N-CH 50V 200MA SOT323
+K BSS138W-FDICT-ND
+F https://www.diodes.com/assets/Datasheets/ds30206.pdf
+$ENDCMP
+#
+$CMP MCP3021
+D Single Delta-Sigma 10bit Analog to Digital Converter, I2C Interface, SOT-23-5
+K Sigma-Delta ADC Converter 10bit I2C 1ch
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001805C.pdf
+$ENDCMP
+#
+$CMP MCP6542
+D Dual Sub-Micramp Push-Pull Output Comparator, PDIP-8/SOIC-8/MSOP-8
+K cmp
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6541%20Output%20SubMicroamp%20Comparators%2020001696K.pdf
+$ENDCMP
+#
+$CMP MCP6544
+D Quad Sub-Microamp Push-Pull Output Comparator, PDIP-14/SOIC-14/TSSOP-14
+K cmp collector
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6541%20Output%20SubMicroamp%20Comparators%2020001696K.pdf
+$ENDCMP
+#
+$CMP NCP785AH33T1G
+D Positive 10mA 450V Linear Regulator, Fixed Output 3.3V, SOT-89
+K Voltage Regulator 10mA Positive
+F https://www.onsemi.com/pdf/datasheet/ncp785a-d.pdf
+$ENDCMP
+#
+#End Doc Library
